@@ -1,0 +1,1 @@
+Be sure to select UART protocol = '0' in the bluetooth app.
